@@ -30,13 +30,13 @@
 
 - 砖头墙壁纹理片元着色器实现（Shader特效7）
 
-![这里写图片描述](http://img.blog.csdn.net/20180128144830894?)
+![这里写图片描述](./result/zhuan.png)
 
 - 着色器滤镜、图像卷积与滤波、数字图像处理（Shader特效8）
 
-![这里写图片描述](http://img.blog.csdn.net/20180129151751449)
+![这里写图片描述](./result/shu1.png)
 
-![这里写图片描述](http://img.blog.csdn.net/20180129152005530)
+![这里写图片描述](./result/shu2.png)
 
 - 移动光带的开发（Shader特效9）
 
