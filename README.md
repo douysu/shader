@@ -4,29 +4,27 @@
 
 - 关键帧动画效果顶点着色器的实现（Shader特效1）
 
-![这里写图片描述](http://img.blog.csdn.net/20180124155639712)
+![这里写图片描述](./result/r1.gif)
 
 - 树干弯曲效果顶点着色器的实现（Shader特效2）
 
-![这里写图片描述](http://img.blog.csdn.net/20180124151513475?)
+![这里写图片描述](./result/r2.gif)
 
 - 波动效果顶点着色器的实现（Shader特效3）
 
-![这里写图片描述](http://img.blog.csdn.net/20180123162750606?)
+![这里写图片描述](./result/r3.gif)
 
 - 旋转扭动效果顶点着色器的实现（Shader特效4）
 
-![这里写图片描述](http://img.blog.csdn.net/20180123155915367?)
+![这里写图片描述](./result/r4.gif)
 
 - 扭曲效果顶点着色器的实现（Shader特效5）
 
-![这里写图片描述](http://img.blog.csdn.net/20180126130844918)
+![这里写图片描述](./result/r5.gif)
 
 - 膨胀效果顶点着色器的实现（Shader特效6）
 
-![这里写图片描述](http://img.blog.csdn.net/20180126133427319?)
-
-![这里写图片描述](http://img.blog.csdn.net/20180126133438376?)
+![这里写图片描述](./result/r6.gif)
 
 - 砖头墙壁纹理片元着色器实现（Shader特效7）
 
@@ -40,9 +38,9 @@
 
 - 移动光带的开发（Shader特效9）
 
-![这里写图片描述](http://img.blog.csdn.net/20180202170204028?t)
+![这里写图片描述](./result/r9.gif)
 
 - 体积雾特效的使用（Shader特效10）
 
-![这里写图片描述](http://img.blog.csdn.net/20180204103524382)
+![这里写图片描述](./result/r10.gif)
 
