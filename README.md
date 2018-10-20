@@ -1,6 +1,6 @@
 # ShaderSample(GLSL着色器特效)
 
-#### 这里主要包括一些博客的对应案例，博客地址为：<http://blog.csdn.net/ModestBean>
+#### 这里主要包括一些博客的对应案例，博客地址为：<http://blog.csdn.net/ModestBean>  案例大部分参考自《OpenGL ES 3.x 游戏开发》，因个人负责书籍的升级工作，遂学习了着色器的内容。
 
 - 关键帧动画效果顶点着色器的实现（Shader特效1）
 
