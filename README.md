@@ -8,39 +8,39 @@
 
 - 树干弯曲效果顶点着色器的实现（Shader特效2）
 
-![这里写图片描述](./result/r2.gif)
+<img src="./result/r2.gif" width=300>
 
 - 波动效果顶点着色器的实现（Shader特效3）
 
-![这里写图片描述](./result/r3.gif)
+<img src="./result/r3.gif" width=300>
 
 - 旋转扭动效果顶点着色器的实现（Shader特效4）
 
-![这里写图片描述](./result/r4.gif)
+<img src="./result/r4.gif" width=300>
 
 - 扭曲效果顶点着色器的实现（Shader特效5）
 
-![这里写图片描述](./result/r5.gif)
+<img src="./result/r5.gif" width=300>
 
 - 膨胀效果顶点着色器的实现（Shader特效6）
 
-![这里写图片描述](./result/r6.gif)
+<img src="./result/r6.gif" width=300>
 
 - 砖头墙壁纹理片元着色器实现（Shader特效7）
 
-![这里写图片描述](./result/zhuan.png)
+<img src="./result/zhuan.png" width=300>
 
 - 着色器滤镜、图像卷积与滤波、数字图像处理（Shader特效8）
 
-![这里写图片描述](./result/shu1.png)
+<img src="./result/shu1.png" width=300>
 
-![这里写图片描述](./result/shu2.png)
+<img src="./result/shu2.png" width=300>
 
 - 移动光带的开发（Shader特效9）
 
-![这里写图片描述](./result/r9.gif)
+<img src="./result/r9.gif" width=200>
 
 - 体积雾特效的使用（Shader特效10）
 
-![这里写图片描述](./result/r10.gif)
+<img src="./result/r10.gif" width=300>
 
