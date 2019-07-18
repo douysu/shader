@@ -4,7 +4,7 @@
 
 - 关键帧动画效果顶点着色器的实现（Shader特效1）
 
-![这里写图片描述](./result/r1.gif)
+<img src="./result/r1.gif" width=300>
 
 - 树干弯曲效果顶点着色器的实现（Shader特效2）
 
