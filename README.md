@@ -30,5 +30,4 @@
 06_膨胀效果顶点着色器的实现：| [源代码位置](./06_Swell) | <img src="./result/r6.gif" width=300> |
 07_砖头墙壁纹理片元着色器实现：| [源代码位置](./07_Brick) | <img src="./result/zhuan.png" width=300> |
 08_着色器滤镜、图像卷积与滤波、数字图像处理：| [源代码位置](./08_ImageProcessing) | <img src="./result/shu1.png" width=300> <img src="./result/shu2.png" width=300> |
-09_移动光带的开发：| [源代码位置](./09_MovingLightStrip) | <img src="./result/r9.gif" width=150> |
 10_体积雾特效的使用：| [源代码位置](./10_VolumetricFog) | <img src="./result/r10.gif" width=300> |
