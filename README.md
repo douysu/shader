@@ -1,9 +1,9 @@
 # GLSL着色器特效
-作者：憨豆酒（YinDou），yindou97@163.com，熟悉图形学，图像处理领域，经常更新的学习总结仓库：<https://github.com/douysu/person-summary> 如果对您有帮助还请帮忙点一个star，如果大家发现错误以及不合理之处，还希望多多指出。
+Shader使用总结。我的联系方式是yindou97@163.com，如果对您有帮助还请帮忙点一个star。记录图形学开发内容，学习过程中的总结仓库：<https://github.com/douysu/computer-graphics-notes>
 
-- [我的Github](https://github.com/douysu)
-- [我的博客](https://blog.csdn.net/ModestBean)
-- [我的知乎](https://zhuanlan.zhihu.com/c_1218472587279433728)
+- [知乎专栏](https://zhuanlan.zhihu.com/graphics-douysu)
+- [博客地址](https://blog.csdn.net/ModestBean)
+
 
 # 博客地址
 
